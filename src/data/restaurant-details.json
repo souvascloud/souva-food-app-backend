@@ -1,0 +1,5532 @@
+[
+  {
+    "id": "rest_101",
+    "slug": "peter-cat-kolkata",
+    "name": "Peter Cat",
+    "image": "https://source.unsplash.com/600x400/?Peter%20Cat",
+    "coverImage": "https://source.unsplash.com/1400x500/?Peter%20Cat%20restaurant",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Mughlai",
+      "Continental"
+    ],
+    "description": "Peter Cat is one of Kolkata's popular restaurants known for Mughlai, Continental cuisine.",
+    "rating": {
+      "value": 4.9,
+      "count": 12373
+    },
+    "delivery": {
+      "time": "21-29 mins",
+      "fee": 30,
+      "distance": "1.9 km"
+    },
+    "pricing": {
+      "costForTwo": 850,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_101_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_101_1",
+            "name": "Chicken Biryani",
+            "description": "Freshly prepared chicken biryani using premium ingredients.",
+            "price": 329,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Biryani",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_101_2",
+            "name": "Mutton Biryani",
+            "description": "Freshly prepared mutton biryani using premium ingredients.",
+            "price": 449,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Mutton%20Biryani",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_101_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_101_3",
+            "name": "Chelo Kebab",
+            "description": "Freshly prepared chelo kebab using premium ingredients.",
+            "price": 549,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chelo%20Kebab",
+            "tags": []
+          },
+          {
+            "id": "item_101_4",
+            "name": "Chicken Chaap",
+            "description": "Freshly prepared chicken chaap using premium ingredients.",
+            "price": 279,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Chaap",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_101_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_101_5",
+            "name": "Firni",
+            "description": "Freshly prepared firni using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Firni",
+            "tags": []
+          },
+          {
+            "id": "item_101_6",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_101_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_101_7",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          },
+          {
+            "id": "item_101_8",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_101_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_101_9",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_102",
+    "slug": "mocambo-kolkata",
+    "name": "Mocambo",
+    "image": "https://source.unsplash.com/600x400/?Mocambo",
+    "coverImage": "https://source.unsplash.com/1400x500/?Mocambo%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Continental",
+      "Italian"
+    ],
+    "description": "Mocambo is one of Kolkata's popular restaurants known for Continental, Italian cuisine.",
+    "rating": {
+      "value": 4.4,
+      "count": 12446
+    },
+    "delivery": {
+      "time": "22-30 mins",
+      "fee": 40,
+      "distance": "2.6 km"
+    },
+    "pricing": {
+      "costForTwo": 1000,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_102_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_102_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_102_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_102_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_102_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_102_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_102_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_102_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_102_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_102_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_102_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_102_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_102_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_102_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_103",
+    "slug": "arsalan-kolkata",
+    "name": "Arsalan",
+    "image": "https://source.unsplash.com/600x400/?Arsalan",
+    "coverImage": "https://source.unsplash.com/1400x500/?Arsalan%20restaurant",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Biryani",
+      "Mughlai"
+    ],
+    "description": "Arsalan is one of Kolkata's popular restaurants known for Biryani, Mughlai cuisine.",
+    "rating": {
+      "value": 4.5,
+      "count": 12519
+    },
+    "delivery": {
+      "time": "23-31 mins",
+      "fee": 50,
+      "distance": "3.3 km"
+    },
+    "pricing": {
+      "costForTwo": 1150,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Circus",
+      "city": "Kolkata",
+      "address": "Park Circus, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_103_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_103_1",
+            "name": "Chicken Biryani",
+            "description": "Freshly prepared chicken biryani using premium ingredients.",
+            "price": 329,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Biryani",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_103_2",
+            "name": "Mutton Biryani",
+            "description": "Freshly prepared mutton biryani using premium ingredients.",
+            "price": 449,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Mutton%20Biryani",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_103_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_103_3",
+            "name": "Chelo Kebab",
+            "description": "Freshly prepared chelo kebab using premium ingredients.",
+            "price": 549,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chelo%20Kebab",
+            "tags": []
+          },
+          {
+            "id": "item_103_4",
+            "name": "Chicken Chaap",
+            "description": "Freshly prepared chicken chaap using premium ingredients.",
+            "price": 279,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Chaap",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_103_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_103_5",
+            "name": "Firni",
+            "description": "Freshly prepared firni using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Firni",
+            "tags": []
+          },
+          {
+            "id": "item_103_6",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_103_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_103_7",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          },
+          {
+            "id": "item_103_8",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_103_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_103_9",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_104",
+    "slug": "bar-b-q-kolkata",
+    "name": "Bar-B-Q",
+    "image": "https://source.unsplash.com/600x400/?Bar-B-Q",
+    "coverImage": "https://source.unsplash.com/1400x500/?Bar-B-Q%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese",
+      "Asian"
+    ],
+    "description": "Bar-B-Q is one of Kolkata's popular restaurants known for Chinese, Asian cuisine.",
+    "rating": {
+      "value": 4.6,
+      "count": 12592
+    },
+    "delivery": {
+      "time": "24-32 mins",
+      "fee": 20,
+      "distance": "4.0 km"
+    },
+    "pricing": {
+      "costForTwo": 1300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_104_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_104_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_104_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_104_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_104_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_104_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_104_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_104_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_104_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_104_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_104_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_104_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_104_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_104_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_105",
+    "slug": "tung-fong-kolkata",
+    "name": "Tung Fong",
+    "image": "https://source.unsplash.com/600x400/?Tung%20Fong",
+    "coverImage": "https://source.unsplash.com/1400x500/?Tung%20Fong%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese"
+    ],
+    "description": "Tung Fong is one of Kolkata's popular restaurants known for Chinese cuisine.",
+    "rating": {
+      "value": 4.7,
+      "count": 12665
+    },
+    "delivery": {
+      "time": "25-33 mins",
+      "fee": 30,
+      "distance": "1.2 km"
+    },
+    "pricing": {
+      "costForTwo": 400,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_105_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_105_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_105_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_105_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_105_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_105_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_105_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_105_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_105_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_105_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_105_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_105_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_105_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_105_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_106",
+    "slug": "trincas-kolkata",
+    "name": "Trincas",
+    "image": "https://source.unsplash.com/600x400/?Trincas",
+    "coverImage": "https://source.unsplash.com/1400x500/?Trincas%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Continental"
+    ],
+    "description": "Trincas is one of Kolkata's popular restaurants known for Continental cuisine.",
+    "rating": {
+      "value": 4.8,
+      "count": 12738
+    },
+    "delivery": {
+      "time": "26-34 mins",
+      "fee": 40,
+      "distance": "1.9 km"
+    },
+    "pricing": {
+      "costForTwo": 550,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_106_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_106_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_106_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_106_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_106_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_106_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_106_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_106_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_106_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_106_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_106_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_106_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_106_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_106_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_107",
+    "slug": "kusum-rolls-kolkata",
+    "name": "Kusum Rolls",
+    "image": "https://source.unsplash.com/600x400/?Kusum%20Rolls",
+    "coverImage": "https://source.unsplash.com/1400x500/?Kusum%20Rolls%20restaurant",
+    "categoryId": "cat_008",
+    "cuisine": [
+      "Rolls",
+      "Fast Food"
+    ],
+    "description": "Kusum Rolls is one of Kolkata's popular restaurants known for Rolls, Fast Food cuisine.",
+    "rating": {
+      "value": 4.9,
+      "count": 12811
+    },
+    "delivery": {
+      "time": "27-35 mins",
+      "fee": 50,
+      "distance": "2.6 km"
+    },
+    "pricing": {
+      "costForTwo": 700,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_107_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_107_1",
+            "name": "Chicken Roll",
+            "description": "Freshly prepared chicken roll using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Roll",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_107_2",
+            "name": "Egg Roll",
+            "description": "Freshly prepared egg roll using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Egg%20Roll",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_107_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_107_3",
+            "name": "Paneer Roll",
+            "description": "Freshly prepared paneer roll using premium ingredients.",
+            "price": 129,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Paneer%20Roll",
+            "tags": []
+          },
+          {
+            "id": "item_107_4",
+            "name": "Chicken Cutlet",
+            "description": "Freshly prepared chicken cutlet using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Cutlet",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_107_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_107_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_107_6",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_107_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_107_7",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 69,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          },
+          {
+            "id": "item_107_8",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_107_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_107_9",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 69,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_108",
+    "slug": "flurys-kolkata",
+    "name": "Flurys",
+    "image": "https://source.unsplash.com/600x400/?Flurys",
+    "coverImage": "https://source.unsplash.com/1400x500/?Flurys%20restaurant",
+    "categoryId": "cat_005",
+    "cuisine": [
+      "Bakery",
+      "Desserts"
+    ],
+    "description": "Flurys is one of Kolkata's popular restaurants known for Bakery, Desserts cuisine.",
+    "rating": {
+      "value": 4.4,
+      "count": 12884
+    },
+    "delivery": {
+      "time": "28-36 mins",
+      "fee": 20,
+      "distance": "3.3 km"
+    },
+    "pricing": {
+      "costForTwo": 850,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_108_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_108_1",
+            "name": "Chocolate Cake",
+            "description": "Freshly prepared chocolate cake using premium ingredients.",
+            "price": 249,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chocolate%20Cake",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_108_2",
+            "name": "Red Velvet",
+            "description": "Freshly prepared red velvet using premium ingredients.",
+            "price": 299,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Red%20Velvet",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_108_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_108_3",
+            "name": "Croissant",
+            "description": "Freshly prepared croissant using premium ingredients.",
+            "price": 129,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Croissant",
+            "tags": []
+          },
+          {
+            "id": "item_108_4",
+            "name": "Blueberry Cheesecake",
+            "description": "Freshly prepared blueberry cheesecake using premium ingredients.",
+            "price": 319,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Blueberry%20Cheesecake",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_108_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_108_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_108_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 189,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_108_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_108_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_108_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 189,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_108_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_108_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_109",
+    "slug": "blue-poppy-kolkata",
+    "name": "Blue Poppy",
+    "image": "https://source.unsplash.com/600x400/?Blue%20Poppy",
+    "coverImage": "https://source.unsplash.com/1400x500/?Blue%20Poppy%20restaurant",
+    "categoryId": "cat_006",
+    "cuisine": [
+      "Tibetan",
+      "Momos"
+    ],
+    "description": "Blue Poppy is one of Kolkata's popular restaurants known for Tibetan, Momos cuisine.",
+    "rating": {
+      "value": 4.5,
+      "count": 12957
+    },
+    "delivery": {
+      "time": "29-37 mins",
+      "fee": 30,
+      "distance": "4.0 km"
+    },
+    "pricing": {
+      "costForTwo": 1000,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata",
+      "address": "Salt Lake, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_109_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_109_1",
+            "name": "Steam Momos",
+            "description": "Freshly prepared steam momos using premium ingredients.",
+            "price": 189,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Steam%20Momos",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_109_2",
+            "name": "Fried Momos",
+            "description": "Freshly prepared fried momos using premium ingredients.",
+            "price": 229,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Momos",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_109_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_109_3",
+            "name": "Thukpa",
+            "description": "Freshly prepared thukpa using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Thukpa",
+            "tags": []
+          },
+          {
+            "id": "item_109_4",
+            "name": "Korean Wings",
+            "description": "Freshly prepared korean wings using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Korean%20Wings",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_109_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_109_5",
+            "name": "Ice Cream",
+            "description": "Freshly prepared ice cream using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Ice%20Cream",
+            "tags": []
+          },
+          {
+            "id": "item_109_6",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 109,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_109_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_109_7",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_109_8",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 109,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_109_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_109_9",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_110",
+    "slug": "roastery-coffee-house-kolkata",
+    "name": "Roastery Coffee House",
+    "image": "https://source.unsplash.com/600x400/?Roastery%20Coffee%20House",
+    "coverImage": "https://source.unsplash.com/1400x500/?Roastery%20Coffee%20House%20restaurant",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Coffee"
+    ],
+    "description": "Roastery Coffee House is one of Kolkata's popular restaurants known for Cafe, Coffee cuisine.",
+    "rating": {
+      "value": 4.6,
+      "count": 13030
+    },
+    "delivery": {
+      "time": "20-28 mins",
+      "fee": 40,
+      "distance": "1.2 km"
+    },
+    "pricing": {
+      "costForTwo": 1150,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Hindustan Park",
+      "city": "Kolkata",
+      "address": "Hindustan Park, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_110_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_110_1",
+            "name": "Cappuccino",
+            "description": "Freshly prepared cappuccino using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cappuccino",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_110_2",
+            "name": "Cafe Latte",
+            "description": "Freshly prepared cafe latte using premium ingredients.",
+            "price": 209,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cafe%20Latte",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_110_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_110_3",
+            "name": "Club Sandwich",
+            "description": "Freshly prepared club sandwich using premium ingredients.",
+            "price": 279,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Club%20Sandwich",
+            "tags": []
+          },
+          {
+            "id": "item_110_4",
+            "name": "Veg Pasta",
+            "description": "Freshly prepared veg pasta using premium ingredients.",
+            "price": 319,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Veg%20Pasta",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_110_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_110_5",
+            "name": "Cheesecake",
+            "description": "Freshly prepared cheesecake using premium ingredients.",
+            "price": 249,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Cheesecake",
+            "tags": []
+          },
+          {
+            "id": "item_110_6",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_110_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_110_7",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          },
+          {
+            "id": "item_110_8",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_110_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_110_9",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_111",
+    "slug": "indian-coffee-house-kolkata",
+    "name": "Indian Coffee House",
+    "image": "https://source.unsplash.com/600x400/?Indian%20Coffee%20House",
+    "coverImage": "https://source.unsplash.com/1400x500/?Indian%20Coffee%20House%20restaurant",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Snacks"
+    ],
+    "description": "Indian Coffee House is one of Kolkata's popular restaurants known for Cafe, Snacks cuisine.",
+    "rating": {
+      "value": 4.7,
+      "count": 13103
+    },
+    "delivery": {
+      "time": "21-29 mins",
+      "fee": 50,
+      "distance": "1.9 km"
+    },
+    "pricing": {
+      "costForTwo": 1300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "College Street",
+      "city": "Kolkata",
+      "address": "College Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_111_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_111_1",
+            "name": "Cappuccino",
+            "description": "Freshly prepared cappuccino using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cappuccino",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_111_2",
+            "name": "Cafe Latte",
+            "description": "Freshly prepared cafe latte using premium ingredients.",
+            "price": 209,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cafe%20Latte",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_111_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_111_3",
+            "name": "Club Sandwich",
+            "description": "Freshly prepared club sandwich using premium ingredients.",
+            "price": 279,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Club%20Sandwich",
+            "tags": []
+          },
+          {
+            "id": "item_111_4",
+            "name": "Veg Pasta",
+            "description": "Freshly prepared veg pasta using premium ingredients.",
+            "price": 319,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Veg%20Pasta",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_111_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_111_5",
+            "name": "Cheesecake",
+            "description": "Freshly prepared cheesecake using premium ingredients.",
+            "price": 249,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Cheesecake",
+            "tags": []
+          },
+          {
+            "id": "item_111_6",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_111_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_111_7",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          },
+          {
+            "id": "item_111_8",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_111_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_111_9",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_112",
+    "slug": "yauatcha-kolkata",
+    "name": "Yauatcha",
+    "image": "https://source.unsplash.com/600x400/?Yauatcha",
+    "coverImage": "https://source.unsplash.com/1400x500/?Yauatcha%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese",
+      "Dim Sum"
+    ],
+    "description": "Yauatcha is one of Kolkata's popular restaurants known for Chinese, Dim Sum cuisine.",
+    "rating": {
+      "value": 4.8,
+      "count": 13176
+    },
+    "delivery": {
+      "time": "22-30 mins",
+      "fee": 20,
+      "distance": "2.6 km"
+    },
+    "pricing": {
+      "costForTwo": 400,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata",
+      "address": "Salt Lake, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_112_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_112_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_112_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_112_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_112_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_112_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_112_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_112_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_112_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_112_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_112_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_112_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_112_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_112_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_113",
+    "slug": "burma-burma-kolkata",
+    "name": "Burma Burma",
+    "image": "https://source.unsplash.com/600x400/?Burma%20Burma",
+    "coverImage": "https://source.unsplash.com/1400x500/?Burma%20Burma%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Asian",
+      "Burmese"
+    ],
+    "description": "Burma Burma is one of Kolkata's popular restaurants known for Asian, Burmese cuisine.",
+    "rating": {
+      "value": 4.9,
+      "count": 13249
+    },
+    "delivery": {
+      "time": "23-31 mins",
+      "fee": 30,
+      "distance": "3.3 km"
+    },
+    "pricing": {
+      "costForTwo": 550,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata",
+      "address": "Salt Lake, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_113_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_113_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_113_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_113_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_113_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_113_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_113_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_113_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_113_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_113_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_113_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_113_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_113_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_113_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_114",
+    "slug": "olterra-kolkata",
+    "name": "Olterra",
+    "image": "https://source.unsplash.com/600x400/?Olterra",
+    "coverImage": "https://source.unsplash.com/1400x500/?Olterra%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Italian",
+      "European"
+    ],
+    "description": "Olterra is one of Kolkata's popular restaurants known for Italian, European cuisine.",
+    "rating": {
+      "value": 4.4,
+      "count": 13322
+    },
+    "delivery": {
+      "time": "24-32 mins",
+      "fee": 40,
+      "distance": "4.0 km"
+    },
+    "pricing": {
+      "costForTwo": 700,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata",
+      "address": "Ballygunge, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_114_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_114_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_114_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_114_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_114_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_114_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_114_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_114_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_114_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_114_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_114_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_114_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_114_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_114_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_115",
+    "slug": "craft-coffee-experience-centre-kolkata",
+    "name": "Craft Coffee Experience Centre",
+    "image": "https://source.unsplash.com/600x400/?Craft%20Coffee%20Experience%20Centre",
+    "coverImage": "https://source.unsplash.com/1400x500/?Craft%20Coffee%20Experience%20Centre%20restaurant",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Coffee",
+      "Cafe"
+    ],
+    "description": "Craft Coffee Experience Centre is one of Kolkata's popular restaurants known for Coffee, Cafe cuisine.",
+    "rating": {
+      "value": 4.5,
+      "count": 13395
+    },
+    "delivery": {
+      "time": "25-33 mins",
+      "fee": 50,
+      "distance": "1.2 km"
+    },
+    "pricing": {
+      "costForTwo": 850,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata",
+      "address": "Ballygunge, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_115_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_115_1",
+            "name": "Cappuccino",
+            "description": "Freshly prepared cappuccino using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cappuccino",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_115_2",
+            "name": "Cafe Latte",
+            "description": "Freshly prepared cafe latte using premium ingredients.",
+            "price": 209,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cafe%20Latte",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_115_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_115_3",
+            "name": "Club Sandwich",
+            "description": "Freshly prepared club sandwich using premium ingredients.",
+            "price": 279,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Club%20Sandwich",
+            "tags": []
+          },
+          {
+            "id": "item_115_4",
+            "name": "Veg Pasta",
+            "description": "Freshly prepared veg pasta using premium ingredients.",
+            "price": 319,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Veg%20Pasta",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_115_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_115_5",
+            "name": "Cheesecake",
+            "description": "Freshly prepared cheesecake using premium ingredients.",
+            "price": 249,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Cheesecake",
+            "tags": []
+          },
+          {
+            "id": "item_115_6",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_115_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_115_7",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          },
+          {
+            "id": "item_115_8",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_115_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_115_9",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_116",
+    "slug": "the-yellow-turtle-kolkata",
+    "name": "The Yellow Turtle",
+    "image": "https://source.unsplash.com/600x400/?The%20Yellow%20Turtle",
+    "coverImage": "https://source.unsplash.com/1400x500/?The%20Yellow%20Turtle%20restaurant",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Continental"
+    ],
+    "description": "The Yellow Turtle is one of Kolkata's popular restaurants known for Cafe, Continental cuisine.",
+    "rating": {
+      "value": 4.6,
+      "count": 13468
+    },
+    "delivery": {
+      "time": "26-34 mins",
+      "fee": 20,
+      "distance": "1.9 km"
+    },
+    "pricing": {
+      "costForTwo": 1000,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata",
+      "address": "Salt Lake, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_116_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_116_1",
+            "name": "Cappuccino",
+            "description": "Freshly prepared cappuccino using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cappuccino",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_116_2",
+            "name": "Cafe Latte",
+            "description": "Freshly prepared cafe latte using premium ingredients.",
+            "price": 209,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cafe%20Latte",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_116_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_116_3",
+            "name": "Club Sandwich",
+            "description": "Freshly prepared club sandwich using premium ingredients.",
+            "price": 279,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Club%20Sandwich",
+            "tags": []
+          },
+          {
+            "id": "item_116_4",
+            "name": "Veg Pasta",
+            "description": "Freshly prepared veg pasta using premium ingredients.",
+            "price": 319,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Veg%20Pasta",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_116_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_116_5",
+            "name": "Cheesecake",
+            "description": "Freshly prepared cheesecake using premium ingredients.",
+            "price": 249,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Cheesecake",
+            "tags": []
+          },
+          {
+            "id": "item_116_6",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_116_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_116_7",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          },
+          {
+            "id": "item_116_8",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_116_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_116_9",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_117",
+    "slug": "momo-i-am-kolkata",
+    "name": "Momo I Am",
+    "image": "https://source.unsplash.com/600x400/?Momo%20I%20Am",
+    "coverImage": "https://source.unsplash.com/1400x500/?Momo%20I%20Am%20restaurant",
+    "categoryId": "cat_006",
+    "cuisine": [
+      "Korean",
+      "Momos"
+    ],
+    "description": "Momo I Am is one of Kolkata's popular restaurants known for Korean, Momos cuisine.",
+    "rating": {
+      "value": 4.7,
+      "count": 13541
+    },
+    "delivery": {
+      "time": "27-35 mins",
+      "fee": 30,
+      "distance": "2.6 km"
+    },
+    "pricing": {
+      "costForTwo": 1150,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata",
+      "address": "Salt Lake, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_117_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_117_1",
+            "name": "Steam Momos",
+            "description": "Freshly prepared steam momos using premium ingredients.",
+            "price": 189,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Steam%20Momos",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_117_2",
+            "name": "Fried Momos",
+            "description": "Freshly prepared fried momos using premium ingredients.",
+            "price": 229,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Momos",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_117_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_117_3",
+            "name": "Thukpa",
+            "description": "Freshly prepared thukpa using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Thukpa",
+            "tags": []
+          },
+          {
+            "id": "item_117_4",
+            "name": "Korean Wings",
+            "description": "Freshly prepared korean wings using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Korean%20Wings",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_117_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_117_5",
+            "name": "Ice Cream",
+            "description": "Freshly prepared ice cream using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Ice%20Cream",
+            "tags": []
+          },
+          {
+            "id": "item_117_6",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 109,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_117_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_117_7",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_117_8",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 109,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_117_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_117_9",
+            "name": "Lemon Tea",
+            "description": "Freshly prepared lemon tea using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lemon%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_118",
+    "slug": "golden-joy-kolkata",
+    "name": "Golden Joy",
+    "image": "https://source.unsplash.com/600x400/?Golden%20Joy",
+    "coverImage": "https://source.unsplash.com/1400x500/?Golden%20Joy%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese"
+    ],
+    "description": "Golden Joy is one of Kolkata's popular restaurants known for Chinese cuisine.",
+    "rating": {
+      "value": 4.8,
+      "count": 13614
+    },
+    "delivery": {
+      "time": "28-36 mins",
+      "fee": 40,
+      "distance": "3.3 km"
+    },
+    "pricing": {
+      "costForTwo": 1300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Tangra",
+      "city": "Kolkata",
+      "address": "Tangra, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_118_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_118_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_118_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_118_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_118_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_118_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_118_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_118_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_118_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_118_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_118_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_118_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_118_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_118_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_119",
+    "slug": "beijing-restaurant-kolkata",
+    "name": "Beijing Restaurant",
+    "image": "https://source.unsplash.com/600x400/?Beijing%20Restaurant",
+    "coverImage": "https://source.unsplash.com/1400x500/?Beijing%20Restaurant%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese"
+    ],
+    "description": "Beijing Restaurant is one of Kolkata's popular restaurants known for Chinese cuisine.",
+    "rating": {
+      "value": 4.9,
+      "count": 13687
+    },
+    "delivery": {
+      "time": "29-37 mins",
+      "fee": 50,
+      "distance": "4.0 km"
+    },
+    "pricing": {
+      "costForTwo": 400,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Tangra",
+      "city": "Kolkata",
+      "address": "Tangra, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_119_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_119_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_119_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_119_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_119_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_119_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_119_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_119_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_119_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_119_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_119_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_119_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_119_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_119_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_120",
+    "slug": "mitra-cafe-kolkata",
+    "name": "Mitra Cafe",
+    "image": "https://source.unsplash.com/600x400/?Mitra%20Cafe",
+    "coverImage": "https://source.unsplash.com/1400x500/?Mitra%20Cafe%20restaurant",
+    "categoryId": "cat_008",
+    "cuisine": [
+      "Bengali",
+      "Snacks"
+    ],
+    "description": "Mitra Cafe is one of Kolkata's popular restaurants known for Bengali, Snacks cuisine.",
+    "rating": {
+      "value": 4.4,
+      "count": 13760
+    },
+    "delivery": {
+      "time": "20-28 mins",
+      "fee": 20,
+      "distance": "1.2 km"
+    },
+    "pricing": {
+      "costForTwo": 550,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Hedua",
+      "city": "Kolkata",
+      "address": "Hedua, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_120_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_120_1",
+            "name": "Chicken Roll",
+            "description": "Freshly prepared chicken roll using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Roll",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_120_2",
+            "name": "Egg Roll",
+            "description": "Freshly prepared egg roll using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Egg%20Roll",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_120_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_120_3",
+            "name": "Paneer Roll",
+            "description": "Freshly prepared paneer roll using premium ingredients.",
+            "price": 129,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Paneer%20Roll",
+            "tags": []
+          },
+          {
+            "id": "item_120_4",
+            "name": "Chicken Cutlet",
+            "description": "Freshly prepared chicken cutlet using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Cutlet",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_120_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_120_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_120_6",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_120_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_120_7",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 69,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          },
+          {
+            "id": "item_120_8",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 89,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_120_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_120_9",
+            "name": "Cold Drink",
+            "description": "Freshly prepared cold drink using premium ingredients.",
+            "price": 69,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Drink",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_121",
+    "slug": "kewpies-kolkata",
+    "name": "Kewpie's",
+    "image": "https://source.unsplash.com/600x400/?Kewpie's",
+    "coverImage": "https://source.unsplash.com/1400x500/?Kewpie's%20restaurant",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Bengali"
+    ],
+    "description": "Kewpie's is one of Kolkata's popular restaurants known for Bengali cuisine.",
+    "rating": {
+      "value": 4.5,
+      "count": 13833
+    },
+    "delivery": {
+      "time": "21-29 mins",
+      "fee": 30,
+      "distance": "1.9 km"
+    },
+    "pricing": {
+      "costForTwo": 700,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Elgin",
+      "city": "Kolkata",
+      "address": "Elgin, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_121_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_121_1",
+            "name": "Chicken Biryani",
+            "description": "Freshly prepared chicken biryani using premium ingredients.",
+            "price": 329,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Biryani",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_121_2",
+            "name": "Mutton Biryani",
+            "description": "Freshly prepared mutton biryani using premium ingredients.",
+            "price": 449,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Mutton%20Biryani",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_121_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_121_3",
+            "name": "Chelo Kebab",
+            "description": "Freshly prepared chelo kebab using premium ingredients.",
+            "price": 549,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chelo%20Kebab",
+            "tags": []
+          },
+          {
+            "id": "item_121_4",
+            "name": "Chicken Chaap",
+            "description": "Freshly prepared chicken chaap using premium ingredients.",
+            "price": 279,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Chaap",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_121_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_121_5",
+            "name": "Firni",
+            "description": "Freshly prepared firni using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Firni",
+            "tags": []
+          },
+          {
+            "id": "item_121_6",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_121_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_121_7",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          },
+          {
+            "id": "item_121_8",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_121_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_121_9",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_122",
+    "slug": "kwality-kolkata",
+    "name": "Kwality",
+    "image": "https://source.unsplash.com/600x400/?Kwality",
+    "coverImage": "https://source.unsplash.com/1400x500/?Kwality%20restaurant",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "North Indian",
+      "Kebabs"
+    ],
+    "description": "Kwality is one of Kolkata's popular restaurants known for North Indian, Kebabs cuisine.",
+    "rating": {
+      "value": 4.6,
+      "count": 13906
+    },
+    "delivery": {
+      "time": "22-30 mins",
+      "fee": 40,
+      "distance": "2.6 km"
+    },
+    "pricing": {
+      "costForTwo": 850,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_122_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_122_1",
+            "name": "Chicken Biryani",
+            "description": "Freshly prepared chicken biryani using premium ingredients.",
+            "price": 329,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Biryani",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_122_2",
+            "name": "Mutton Biryani",
+            "description": "Freshly prepared mutton biryani using premium ingredients.",
+            "price": 449,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Mutton%20Biryani",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_122_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_122_3",
+            "name": "Chelo Kebab",
+            "description": "Freshly prepared chelo kebab using premium ingredients.",
+            "price": 549,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chelo%20Kebab",
+            "tags": []
+          },
+          {
+            "id": "item_122_4",
+            "name": "Chicken Chaap",
+            "description": "Freshly prepared chicken chaap using premium ingredients.",
+            "price": 279,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Chaap",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_122_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_122_5",
+            "name": "Firni",
+            "description": "Freshly prepared firni using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Firni",
+            "tags": []
+          },
+          {
+            "id": "item_122_6",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_122_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_122_7",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          },
+          {
+            "id": "item_122_8",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_122_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_122_9",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_123",
+    "slug": "someplace-else-kolkata",
+    "name": "Someplace Else",
+    "image": "https://source.unsplash.com/600x400/?Someplace%20Else",
+    "coverImage": "https://source.unsplash.com/1400x500/?Someplace%20Else%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Pub",
+      "Continental"
+    ],
+    "description": "Someplace Else is one of Kolkata's popular restaurants known for Pub, Continental cuisine.",
+    "rating": {
+      "value": 4.7,
+      "count": 13979
+    },
+    "delivery": {
+      "time": "23-31 mins",
+      "fee": 50,
+      "distance": "3.3 km"
+    },
+    "pricing": {
+      "costForTwo": 1000,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_123_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_123_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_123_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_123_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_123_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_123_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_123_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_123_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_123_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_123_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_123_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_123_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_123_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_123_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_124",
+    "slug": "bonne-femme-kolkata",
+    "name": "Bonne Femme",
+    "image": "https://source.unsplash.com/600x400/?Bonne%20Femme",
+    "coverImage": "https://source.unsplash.com/1400x500/?Bonne%20Femme%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "French",
+      "Italian"
+    ],
+    "description": "Bonne Femme is one of Kolkata's popular restaurants known for French, Italian cuisine.",
+    "rating": {
+      "value": 4.8,
+      "count": 14052
+    },
+    "delivery": {
+      "time": "24-32 mins",
+      "fee": 20,
+      "distance": "4.0 km"
+    },
+    "pricing": {
+      "costForTwo": 1150,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata",
+      "address": "Ballygunge, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_124_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_124_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_124_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_124_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_124_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_124_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_124_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_124_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_124_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_124_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_124_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_124_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_124_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_124_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_125",
+    "slug": "park-street-social-kolkata",
+    "name": "Park Street SOCIAL",
+    "image": "https://source.unsplash.com/600x400/?Park%20Street%20SOCIAL",
+    "coverImage": "https://source.unsplash.com/1400x500/?Park%20Street%20SOCIAL%20restaurant",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Continental"
+    ],
+    "description": "Park Street SOCIAL is one of Kolkata's popular restaurants known for Cafe, Continental cuisine.",
+    "rating": {
+      "value": 4.9,
+      "count": 14125
+    },
+    "delivery": {
+      "time": "25-33 mins",
+      "fee": 30,
+      "distance": "1.2 km"
+    },
+    "pricing": {
+      "costForTwo": 1300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_125_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_125_1",
+            "name": "Cappuccino",
+            "description": "Freshly prepared cappuccino using premium ingredients.",
+            "price": 169,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cappuccino",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_125_2",
+            "name": "Cafe Latte",
+            "description": "Freshly prepared cafe latte using premium ingredients.",
+            "price": 209,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cafe%20Latte",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_125_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_125_3",
+            "name": "Club Sandwich",
+            "description": "Freshly prepared club sandwich using premium ingredients.",
+            "price": 279,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Club%20Sandwich",
+            "tags": []
+          },
+          {
+            "id": "item_125_4",
+            "name": "Veg Pasta",
+            "description": "Freshly prepared veg pasta using premium ingredients.",
+            "price": 319,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Veg%20Pasta",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_125_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_125_5",
+            "name": "Cheesecake",
+            "description": "Freshly prepared cheesecake using premium ingredients.",
+            "price": 249,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Cheesecake",
+            "tags": []
+          },
+          {
+            "id": "item_125_6",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_125_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_125_7",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          },
+          {
+            "id": "item_125_8",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 179,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_125_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_125_9",
+            "name": "Iced Americano",
+            "description": "Freshly prepared iced americano using premium ingredients.",
+            "price": 159,
+            "isVeg": true,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Iced%20Americano",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_126",
+    "slug": "olive-cafe-bar-kolkata",
+    "name": "Olive Cafe & Bar",
+    "image": "https://source.unsplash.com/600x400/?Olive%20Cafe%20&%20Bar",
+    "coverImage": "https://source.unsplash.com/1400x500/?Olive%20Cafe%20&%20Bar%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Italian",
+      "Continental"
+    ],
+    "description": "Olive Cafe & Bar is one of Kolkata's popular restaurants known for Italian, Continental cuisine.",
+    "rating": {
+      "value": 4.4,
+      "count": 14198
+    },
+    "delivery": {
+      "time": "26-34 mins",
+      "fee": 40,
+      "distance": "1.9 km"
+    },
+    "pricing": {
+      "costForTwo": 400,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata",
+      "address": "Ballygunge, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_126_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_126_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_126_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_126_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_126_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_126_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_126_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_126_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_126_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_126_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_126_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_126_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_126_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_126_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_127",
+    "slug": "la-artisan-bistro-kolkata",
+    "name": "La Artisan Bistro",
+    "image": "https://source.unsplash.com/600x400/?La%20Artisan%20Bistro",
+    "coverImage": "https://source.unsplash.com/1400x500/?La%20Artisan%20Bistro%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "European",
+      "Bakery"
+    ],
+    "description": "La Artisan Bistro is one of Kolkata's popular restaurants known for European, Bakery cuisine.",
+    "rating": {
+      "value": 4.5,
+      "count": 14271
+    },
+    "delivery": {
+      "time": "27-35 mins",
+      "fee": 50,
+      "distance": "2.6 km"
+    },
+    "pricing": {
+      "costForTwo": 550,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata",
+      "address": "Salt Lake, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_127_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_127_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_127_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_127_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_127_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_127_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_127_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_127_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_127_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_127_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_127_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_127_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_127_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_127_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_128",
+    "slug": "sorano-kolkata",
+    "name": "Sorano",
+    "image": "https://source.unsplash.com/600x400/?Sorano",
+    "coverImage": "https://source.unsplash.com/1400x500/?Sorano%20restaurant",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "description": "Sorano is one of Kolkata's popular restaurants known for Italian, Pizza cuisine.",
+    "rating": {
+      "value": 4.6,
+      "count": 14344
+    },
+    "delivery": {
+      "time": "28-36 mins",
+      "fee": 20,
+      "distance": "3.3 km"
+    },
+    "pricing": {
+      "costForTwo": 700,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata",
+      "address": "Park Street, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_128_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_128_1",
+            "name": "Margherita Pizza",
+            "description": "Freshly prepared margherita pizza using premium ingredients.",
+            "price": 399,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Margherita%20Pizza",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_128_2",
+            "name": "Chicken Steak",
+            "description": "Freshly prepared chicken steak using premium ingredients.",
+            "price": 569,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Steak",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_128_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_128_3",
+            "name": "Creamy Pasta",
+            "description": "Freshly prepared creamy pasta using premium ingredients.",
+            "price": 429,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Creamy%20Pasta",
+            "tags": []
+          },
+          {
+            "id": "item_128_4",
+            "name": "Garlic Bread",
+            "description": "Freshly prepared garlic bread using premium ingredients.",
+            "price": 219,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Garlic%20Bread",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_128_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_128_5",
+            "name": "Tiramisu",
+            "description": "Freshly prepared tiramisu using premium ingredients.",
+            "price": 249,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Tiramisu",
+            "tags": []
+          },
+          {
+            "id": "item_128_6",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_128_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_128_7",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          },
+          {
+            "id": "item_128_8",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_128_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_128_9",
+            "name": "Cold Coffee",
+            "description": "Freshly prepared cold coffee using premium ingredients.",
+            "price": 179,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Cold%20Coffee",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_129",
+    "slug": "garden-lounge-kolkata",
+    "name": "The Garden Lounge",
+    "image": "https://source.unsplash.com/600x400/?The%20Garden%20Lounge",
+    "coverImage": "https://source.unsplash.com/1400x500/?The%20Garden%20Lounge%20restaurant",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Biryani",
+      "Continental"
+    ],
+    "description": "The Garden Lounge is one of Kolkata's popular restaurants known for Biryani, Continental cuisine.",
+    "rating": {
+      "value": 4.7,
+      "count": 14417
+    },
+    "delivery": {
+      "time": "29-37 mins",
+      "fee": 30,
+      "distance": "4.0 km"
+    },
+    "pricing": {
+      "costForTwo": 850,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated",
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "Sector V",
+      "city": "Kolkata",
+      "address": "Sector V, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_129_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_129_1",
+            "name": "Chicken Biryani",
+            "description": "Freshly prepared chicken biryani using premium ingredients.",
+            "price": 329,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Biryani",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_129_2",
+            "name": "Mutton Biryani",
+            "description": "Freshly prepared mutton biryani using premium ingredients.",
+            "price": 449,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Mutton%20Biryani",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_129_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_129_3",
+            "name": "Chelo Kebab",
+            "description": "Freshly prepared chelo kebab using premium ingredients.",
+            "price": 549,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chelo%20Kebab",
+            "tags": []
+          },
+          {
+            "id": "item_129_4",
+            "name": "Chicken Chaap",
+            "description": "Freshly prepared chicken chaap using premium ingredients.",
+            "price": 279,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Chaap",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_129_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_129_5",
+            "name": "Firni",
+            "description": "Freshly prepared firni using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Firni",
+            "tags": []
+          },
+          {
+            "id": "item_129_6",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_129_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_129_7",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          },
+          {
+            "id": "item_129_8",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 119,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_129_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_129_9",
+            "name": "Lassi",
+            "description": "Freshly prepared lassi using premium ingredients.",
+            "price": 99,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Lassi",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rest_130",
+    "slug": "vintage-asia-kolkata",
+    "name": "Vintage Asia",
+    "image": "https://source.unsplash.com/600x400/?Vintage%20Asia",
+    "coverImage": "https://source.unsplash.com/1400x500/?Vintage%20Asia%20restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Asian",
+      "Japanese"
+    ],
+    "description": "Vintage Asia is one of Kolkata's popular restaurants known for Asian, Japanese cuisine.",
+    "rating": {
+      "value": 4.8,
+      "count": 14490
+    },
+    "delivery": {
+      "time": "20-28 mins",
+      "fee": 40,
+      "distance": "1.2 km"
+    },
+    "pricing": {
+      "costForTwo": 1000,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "timings": {
+      "opensAt": "10:00 AM",
+      "closesAt": "11:30 PM"
+    },
+    "location": {
+      "area": "JW Marriott",
+      "city": "Kolkata",
+      "address": "JW Marriott, Kolkata",
+      "landmark": "Near Metro Station"
+    },
+    "facilities": [
+      "Delivery",
+      "Takeaway",
+      "Dine-In",
+      "Online Payment"
+    ],
+    "menu": [
+      {
+        "id": "menu_130_1",
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "item_130_1",
+            "name": "Chicken Noodles",
+            "description": "Freshly prepared chicken noodles using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Chicken%20Noodles",
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_130_2",
+            "name": "Fried Rice",
+            "description": "Freshly prepared fried rice using premium ingredients.",
+            "price": 289,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Fried%20Rice",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_130_2",
+        "title": "Starters",
+        "items": [
+          {
+            "id": "item_130_3",
+            "name": "Chilli Chicken",
+            "description": "Freshly prepared chilli chicken using premium ingredients.",
+            "price": 319,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Chilli%20Chicken",
+            "tags": []
+          },
+          {
+            "id": "item_130_4",
+            "name": "Dim Sum",
+            "description": "Freshly prepared dim sum using premium ingredients.",
+            "price": 369,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Dim%20Sum",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_130_3",
+        "title": "Main Course",
+        "items": [
+          {
+            "id": "item_130_5",
+            "name": "Brownie",
+            "description": "Freshly prepared brownie using premium ingredients.",
+            "price": 199,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.3,
+            "image": "https://source.unsplash.com/600x400/?Brownie",
+            "tags": []
+          },
+          {
+            "id": "item_130_6",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.4,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_130_4",
+        "title": "Desserts",
+        "items": [
+          {
+            "id": "item_130_7",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.5,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          },
+          {
+            "id": "item_130_8",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 149,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.6,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "id": "menu_130_5",
+        "title": "Beverages",
+        "items": [
+          {
+            "id": "item_130_9",
+            "name": "Green Tea",
+            "description": "Freshly prepared green tea using premium ingredients.",
+            "price": 129,
+            "isVeg": false,
+            "isAvailable": true,
+            "rating": 4.7,
+            "image": "https://source.unsplash.com/600x400/?Green%20Tea",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cat_001",
+    "name": "Pizza",
+    "icon": "🍕",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400",
+    "restaurantCount": 42,
+    "displayOrder": 1,
+    "isActive": true
+  },
+  {
+    "id": "cat_002",
+    "name": "Burger",
+    "icon": "🍔",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400",
+    "restaurantCount": 35,
+    "displayOrder": 2,
+    "isActive": true
+  },
+  {
+    "id": "cat_003",
+    "name": "Biryani",
+    "icon": "🍛",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=400",
+    "restaurantCount": 51,
+    "displayOrder": 3,
+    "isActive": true
+  },
+  {
+    "id": "cat_004",
+    "name": "Chinese",
+    "icon": "🥡",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400",
+    "restaurantCount": 28,
+    "displayOrder": 4,
+    "isActive": true
+  },
+  {
+    "id": "cat_005",
+    "name": "Desserts",
+    "icon": "🍰",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400",
+    "restaurantCount": 18,
+    "displayOrder": 5,
+    "isActive": true
+  },
+  {
+    "id": "cat_006",
+    "name": "Momos",
+    "icon": "🥟",
+    "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=400",
+    "restaurantCount": 24,
+    "displayOrder": 6,
+    "isActive": true
+  },
+  {
+    "id": "cat_007",
+    "name": "Coffee",
+    "icon": "☕",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+    "restaurantCount": 16,
+    "displayOrder": 7,
+    "isActive": true
+  },
+  {
+    "id": "cat_008",
+    "name": "Rolls",
+    "icon": "🌯",
+    "image": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?w=400",
+    "restaurantCount": 27,
+    "displayOrder": 8,
+    "isActive": true
+  }
+]

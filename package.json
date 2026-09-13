@@ -1,0 +1,42 @@
+{
+  "name": "souva-food-app-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for a food ordering application built with Express.",
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend",
+    "rest-api",
+    "food-ordering",
+    "enterprise",
+    "javascript"
+  ],
+  "homepage": "https://github.com/souvascloud/souva-food-app-backend#readme",
+  "bugs": {
+    "url": "https://github.com/souvascloud/souva-food-app-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvascloud/souva-food-app-backend.git"
+  },
+  "license": "ISC",
+  "author": "Souvanik Saha",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "morgan": "^1.12.1",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

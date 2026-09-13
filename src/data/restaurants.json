@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "rest_101",
+    "name": "Peter Cat",
+    "slug": "peter-cat",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Mughlai",
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.9,
+      "count": 5737
+    },
+    "delivery": {
+      "time": "23-29 mins",
+      "fee": 25,
+      "distance": "1.6 km"
+    },
+    "pricing": {
+      "costForTwo": 1050,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?kolkata%20restaurant%20steak%20food"
+  },
+  {
+    "id": "rest_102",
+    "name": "Mocambo",
+    "slug": "mocambo",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Continental",
+      "Italian"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 5774
+    },
+    "delivery": {
+      "time": "24-30 mins",
+      "fee": 30,
+      "distance": "2.2 km"
+    },
+    "pricing": {
+      "costForTwo": 1200,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?italian%20pasta%20pizza%20restaurant"
+  },
+  {
+    "id": "rest_103",
+    "name": "Arsalan",
+    "slug": "arsalan",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Biryani",
+      "Mughlai"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 5811
+    },
+    "delivery": {
+      "time": "25-31 mins",
+      "fee": 35,
+      "distance": "2.8 km"
+    },
+    "pricing": {
+      "costForTwo": 1350,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Circus",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?chicken%20biryani"
+  },
+  {
+    "id": "rest_104",
+    "name": "Bar-B-Q",
+    "slug": "bar-b-q",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese",
+      "Asian"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 5848
+    },
+    "delivery": {
+      "time": "26-32 mins",
+      "fee": 40,
+      "distance": "3.4 km"
+    },
+    "pricing": {
+      "costForTwo": 300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?chinese%20noodles"
+  },
+  {
+    "id": "rest_105",
+    "name": "Tung Fong",
+    "slug": "tung-fong",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 5885
+    },
+    "delivery": {
+      "time": "27-33 mins",
+      "fee": 20,
+      "distance": "1.0 km"
+    },
+    "pricing": {
+      "costForTwo": 450,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?fried%20rice%20chinese"
+  },
+  {
+    "id": "rest_106",
+    "name": "Trincas",
+    "slug": "trincas",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 5922
+    },
+    "delivery": {
+      "time": "28-34 mins",
+      "fee": 25,
+      "distance": "1.6 km"
+    },
+    "pricing": {
+      "costForTwo": 600,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?continental%20food"
+  },
+  {
+    "id": "rest_107",
+    "name": "Kusum Rolls",
+    "slug": "kusum-rolls",
+    "categoryId": "cat_008",
+    "cuisine": [
+      "Rolls",
+      "Fast Food"
+    ],
+    "rating": {
+      "value": 4.9,
+      "count": 5959
+    },
+    "delivery": {
+      "time": "29-35 mins",
+      "fee": 30,
+      "distance": "2.2 km"
+    },
+    "pricing": {
+      "costForTwo": 750,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?kathi%20roll"
+  },
+  {
+    "id": "rest_108",
+    "name": "Flurys",
+    "slug": "flurys",
+    "categoryId": "cat_005",
+    "cuisine": [
+      "Bakery",
+      "Desserts"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 5996
+    },
+    "delivery": {
+      "time": "18-24 mins",
+      "fee": 35,
+      "distance": "2.8 km"
+    },
+    "pricing": {
+      "costForTwo": 900,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?cake%20pastry"
+  },
+  {
+    "id": "rest_109",
+    "name": "Blue Poppy",
+    "slug": "blue-poppy",
+    "categoryId": "cat_006",
+    "cuisine": [
+      "Tibetan",
+      "Momos"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 6033
+    },
+    "delivery": {
+      "time": "19-25 mins",
+      "fee": 40,
+      "distance": "3.4 km"
+    },
+    "pricing": {
+      "costForTwo": 1050,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?momos"
+  },
+  {
+    "id": "rest_110",
+    "name": "Roastery Coffee House",
+    "slug": "roastery-coffee-house",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Coffee"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 6070
+    },
+    "delivery": {
+      "time": "20-26 mins",
+      "fee": 20,
+      "distance": "1.0 km"
+    },
+    "pricing": {
+      "costForTwo": 1200,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Hindustan Park",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?coffee%20latte"
+  },
+  {
+    "id": "rest_111",
+    "name": "Indian Coffee House",
+    "slug": "indian-coffee-house",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Snacks"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 6107
+    },
+    "delivery": {
+      "time": "21-27 mins",
+      "fee": 25,
+      "distance": "1.6 km"
+    },
+    "pricing": {
+      "costForTwo": 1350,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "College Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?coffee%20cafe"
+  },
+  {
+    "id": "rest_112",
+    "name": "Yauatcha",
+    "slug": "yauatcha",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese",
+      "Dim Sum"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 6144
+    },
+    "delivery": {
+      "time": "22-28 mins",
+      "fee": 30,
+      "distance": "2.2 km"
+    },
+    "pricing": {
+      "costForTwo": 300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?dimsum"
+  },
+  {
+    "id": "rest_113",
+    "name": "Burma Burma",
+    "slug": "burma-burma",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Asian",
+      "Burmese"
+    ],
+    "rating": {
+      "value": 4.9,
+      "count": 6181
+    },
+    "delivery": {
+      "time": "23-29 mins",
+      "fee": 35,
+      "distance": "2.8 km"
+    },
+    "pricing": {
+      "costForTwo": 450,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?asian%20noodles"
+  },
+  {
+    "id": "rest_114",
+    "name": "Olterra",
+    "slug": "olterra",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Italian",
+      "European"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 6218
+    },
+    "delivery": {
+      "time": "24-30 mins",
+      "fee": 40,
+      "distance": "3.4 km"
+    },
+    "pricing": {
+      "costForTwo": 600,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?italian%20pizza"
+  },
+  {
+    "id": "rest_115",
+    "name": "Craft Coffee Experience Centre",
+    "slug": "craft-coffee-experience-centre",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Coffee",
+      "Cafe"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 6255
+    },
+    "delivery": {
+      "time": "25-31 mins",
+      "fee": 20,
+      "distance": "1.0 km"
+    },
+    "pricing": {
+      "costForTwo": 750,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?coffee%20beans"
+  },
+  {
+    "id": "rest_116",
+    "name": "The Yellow Turtle",
+    "slug": "the-yellow-turtle",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 6292
+    },
+    "delivery": {
+      "time": "26-32 mins",
+      "fee": 25,
+      "distance": "1.6 km"
+    },
+    "pricing": {
+      "costForTwo": 900,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?cafe%20brunch"
+  },
+  {
+    "id": "rest_117",
+    "name": "Momo I Am",
+    "slug": "momo-i-am",
+    "categoryId": "cat_006",
+    "cuisine": [
+      "Korean",
+      "Momos"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 6329
+    },
+    "delivery": {
+      "time": "27-33 mins",
+      "fee": 30,
+      "distance": "2.2 km"
+    },
+    "pricing": {
+      "costForTwo": 1050,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?korean%20food"
+  },
+  {
+    "id": "rest_118",
+    "name": "Golden Joy",
+    "slug": "golden-joy",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 6366
+    },
+    "delivery": {
+      "time": "28-34 mins",
+      "fee": 35,
+      "distance": "2.8 km"
+    },
+    "pricing": {
+      "costForTwo": 1200,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Tangra",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?chinese%20food"
+  },
+  {
+    "id": "rest_119",
+    "name": "Beijing Restaurant",
+    "slug": "beijing-restaurant",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Chinese"
+    ],
+    "rating": {
+      "value": 4.9,
+      "count": 6403
+    },
+    "delivery": {
+      "time": "29-35 mins",
+      "fee": 40,
+      "distance": "3.4 km"
+    },
+    "pricing": {
+      "costForTwo": 1350,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Tangra",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?chinese%20noodles"
+  },
+  {
+    "id": "rest_120",
+    "name": "Mitra Cafe",
+    "slug": "mitra-cafe",
+    "categoryId": "cat_008",
+    "cuisine": [
+      "Bengali",
+      "Snacks"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 6440
+    },
+    "delivery": {
+      "time": "18-24 mins",
+      "fee": 20,
+      "distance": "1.0 km"
+    },
+    "pricing": {
+      "costForTwo": 300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Hedua",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?cutlet"
+  },
+  {
+    "id": "rest_121",
+    "name": "Kewpie's",
+    "slug": "kewpies",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Bengali"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 6477
+    },
+    "delivery": {
+      "time": "19-25 mins",
+      "fee": 25,
+      "distance": "1.6 km"
+    },
+    "pricing": {
+      "costForTwo": 450,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Elgin",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?bengali%20thali"
+  },
+  {
+    "id": "rest_122",
+    "name": "Kwality",
+    "slug": "kwality",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "North Indian",
+      "Kebabs"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 6514
+    },
+    "delivery": {
+      "time": "20-26 mins",
+      "fee": 30,
+      "distance": "2.2 km"
+    },
+    "pricing": {
+      "costForTwo": 600,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?kebab"
+  },
+  {
+    "id": "rest_123",
+    "name": "Someplace Else",
+    "slug": "someplace-else",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Pub",
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 6551
+    },
+    "delivery": {
+      "time": "21-27 mins",
+      "fee": 35,
+      "distance": "2.8 km"
+    },
+    "pricing": {
+      "costForTwo": 750,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?pub%20food"
+  },
+  {
+    "id": "rest_124",
+    "name": "Bonne Femme",
+    "slug": "bonne-femme",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "French",
+      "Italian"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 6588
+    },
+    "delivery": {
+      "time": "22-28 mins",
+      "fee": 40,
+      "distance": "3.4 km"
+    },
+    "pricing": {
+      "costForTwo": 900,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?french%20food"
+  },
+  {
+    "id": "rest_125",
+    "name": "Park Street SOCIAL",
+    "slug": "park-street-social",
+    "categoryId": "cat_007",
+    "cuisine": [
+      "Cafe",
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.9,
+      "count": 6625
+    },
+    "delivery": {
+      "time": "23-29 mins",
+      "fee": 20,
+      "distance": "1.0 km"
+    },
+    "pricing": {
+      "costForTwo": 1050,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?cafe%20burger"
+  },
+  {
+    "id": "rest_126",
+    "name": "Olive Cafe & Bar",
+    "slug": "olive-cafe-&-bar",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Italian",
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 6662
+    },
+    "delivery": {
+      "time": "24-30 mins",
+      "fee": 25,
+      "distance": "1.6 km"
+    },
+    "pricing": {
+      "costForTwo": 1200,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Ballygunge",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?italian%20restaurant"
+  },
+  {
+    "id": "rest_127",
+    "name": "La Artisan Bistro",
+    "slug": "la-artisan-bistro",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "European",
+      "Bakery"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 6699
+    },
+    "delivery": {
+      "time": "25-31 mins",
+      "fee": 30,
+      "distance": "2.2 km"
+    },
+    "pricing": {
+      "costForTwo": 1350,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": true,
+    "isOpen": true,
+    "location": {
+      "area": "Salt Lake",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?bakery%20bread"
+  },
+  {
+    "id": "rest_128",
+    "name": "Sorano",
+    "slug": "sorano",
+    "categoryId": "cat_001",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 6736
+    },
+    "delivery": {
+      "time": "26-32 mins",
+      "fee": 35,
+      "distance": "2.8 km"
+    },
+    "pricing": {
+      "costForTwo": 300,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Fast Delivery"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Park Street",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?pizza%20margherita"
+  },
+  {
+    "id": "rest_129",
+    "name": "The Garden Lounge",
+    "slug": "the-garden-lounge",
+    "categoryId": "cat_003",
+    "cuisine": [
+      "Biryani",
+      "Continental"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 6773
+    },
+    "delivery": {
+      "time": "27-33 mins",
+      "fee": 40,
+      "distance": "3.4 km"
+    },
+    "pricing": {
+      "costForTwo": 450,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "20% OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Bestseller"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "Sector V",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?biryani"
+  },
+  {
+    "id": "rest_130",
+    "name": "Vintage Asia",
+    "slug": "vintage-asia",
+    "categoryId": "cat_004",
+    "cuisine": [
+      "Asian",
+      "Japanese"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 6810
+    },
+    "delivery": {
+      "time": "28-34 mins",
+      "fee": 20,
+      "distance": "1.0 km"
+    },
+    "pricing": {
+      "costForTwo": 600,
+      "currency": "INR"
+    },
+    "offer": {
+      "title": "Flat \u20b9100 OFF",
+      "subtitle": "Above \u20b9499"
+    },
+    "badges": [
+      "Top Rated"
+    ],
+    "isPureVeg": false,
+    "isOpen": true,
+    "location": {
+      "area": "JW Marriott",
+      "city": "Kolkata"
+    },
+    "image": "https://source.unsplash.com/600x400/?sushi"
+  }
+]
